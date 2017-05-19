@@ -33,7 +33,6 @@ void bubble_sort( int *a, int n){
         printf_vector(a, n);
 }
 
-
 void selection_sort(int *a, int n){
 
         int i;
@@ -53,7 +52,6 @@ void selection_sort(int *a, int n){
         }
 
         printf_vector(a, n);
-
 
 }
 
